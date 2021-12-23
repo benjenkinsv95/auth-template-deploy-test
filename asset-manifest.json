@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/auth-template-deploy-test/static/css/main.432dfbff.chunk.css",
+    "main.js": "/auth-template-deploy-test/static/js/main.cc71201a.chunk.js",
+    "main.js.map": "/auth-template-deploy-test/static/js/main.cc71201a.chunk.js.map",
+    "runtime-main.js": "/auth-template-deploy-test/static/js/runtime-main.46e3d5ba.js",
+    "runtime-main.js.map": "/auth-template-deploy-test/static/js/runtime-main.46e3d5ba.js.map",
+    "static/js/2.233e81f8.chunk.js": "/auth-template-deploy-test/static/js/2.233e81f8.chunk.js",
+    "static/js/2.233e81f8.chunk.js.map": "/auth-template-deploy-test/static/js/2.233e81f8.chunk.js.map",
+    "index.html": "/auth-template-deploy-test/index.html",
+    "static/css/main.432dfbff.chunk.css.map": "/auth-template-deploy-test/static/css/main.432dfbff.chunk.css.map",
+    "static/js/2.233e81f8.chunk.js.LICENSE.txt": "/auth-template-deploy-test/static/js/2.233e81f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46e3d5ba.js",
+    "static/js/2.233e81f8.chunk.js",
+    "static/css/main.432dfbff.chunk.css",
+    "static/js/main.cc71201a.chunk.js"
+  ]
+}
